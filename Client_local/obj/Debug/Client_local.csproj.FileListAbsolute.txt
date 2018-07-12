@@ -1,0 +1,1 @@
+c:\Users\akb\Documents\Visual Studio 2015\Projects\Danmu Server\Client_local\bin\Debug\Client_local.exe.config

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Danmu_Server.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Danmu_Server.DanmuControl">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Danmu_Server.DanmuControl.voidmove" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DanmuControl.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAAAIAAAAAEAAiAAAAAAIAgAAgABAMABACAEIAAAA=</HashCode>
+      <FileName>DanmuControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Danmu_Server.DanmuForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAABAAAACQAAACAAABAAAABAAAAAAAQIA=</HashCode>
+      <FileName>DanmuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Danmu_Server.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAADCIQAgQDgBAAAAgAMAABAASUAGANAAAAAEA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Danmu_Server.Tools">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIAFAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client_local.erweiCode">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAAGAAAACAAAAAAAAAAAAAABABAA=</HashCode>
+      <FileName>erweiCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Danmu_Server.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Danmu_Server.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="serverkhd.StateObject">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAEAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>socket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="serverkhd.socket_server">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="serverkhd.socket_server.NullparameterEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>socket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="serverkhd.socket_server.ClientIn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>socket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="serverkhd.socket_server.clientclose" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>socket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="serverkhd.socket_server.MsgIn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>socket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EQAARBAAAAAAACACBAAAAAAgACAAAEAEAAAAAQCgQAI=</HashCode>
+      <FileName>socket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="serverkhd.socket_client" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAEAAACACAAIAQJAgAAAAAAAAAAAgAACgAAA=</HashCode>
+      <FileName>socket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="serverkhd.Net_inf">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAA=</HashCode>
+      <FileName>socket.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

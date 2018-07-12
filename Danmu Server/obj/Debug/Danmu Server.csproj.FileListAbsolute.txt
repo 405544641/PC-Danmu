@@ -1,0 +1,47 @@
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Danmu Server.exe.config
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server.csprojResolveAssemblyReference.cache
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\MainWindow.g.cs
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\App.g.cs
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server_MarkupCompile.cache
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server_MarkupCompile.lref
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Danmu Server.exe
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Danmu Server.pdb
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\MainWindow.baml
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server.g.resources
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu_Server.Properties.Resources.resources
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server.csproj.GenerateResource.Cache
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server.exe
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server.pdb
+c:\users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu_Server.DanmuForm.resources
+c:\Users\akb\Documents\Visual Studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Gma.QrCodeNet.Encoding.dll
+c:\Users\akb\Documents\Visual Studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\ThoughtWorks.QRCode.dll
+c:\Users\akb\Documents\Visual Studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Danmu Server_Content.g.cs
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\Client_local.erweiCode.resources
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\mysql.data.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\mysql.data.entity.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\mysql.visualstudio.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\mysql.web.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\EnvDTE.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\EnvDTE80.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.MSXML.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\stdole.dll
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\EnvDTE.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\EnvDTE80.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\akb\documents\visual studio 2015\Projects\Danmu Server\Danmu Server\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+C:\Users\akb\Documents\Visual Studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\regionWindow.g.cs
+C:\Users\akb\Documents\Visual Studio 2015\Projects\Danmu Server\Danmu Server\obj\Debug\regionWindow.baml
